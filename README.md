@@ -10,15 +10,15 @@ An adapted bubble machine that uses a 3.5mm assistive switch
 
 
 ## Getting Started
-1. How to build this device
+#### 1. How to build this device
 
 All of the files and instructions required to adapted the bubble blower are contained within this repository. Refer to the Maker Checklist below.
 
-2. How to request a build of this device
+#### 2. How to request a build of this device
 
 If you would like to obtain a switch adapted bubble blower but do not have the skills or equipment to do so, you may submit a build request through the [MMC Library Page]( https://makersmakingchange.com/project/switch-adapted-bubble-blower/). The requestor is responsible for the cost of materials and any shipping.
 
-3. How to build this device for someone else
+#### 3. How to build this device for someone else
 
 If you have the skills and equipment to build this device, and would like to donate your time to create the switch for someone who needs it, visit the [MMC Maker Wanted](https://makersmakingchange.com/maker-wanted/) section.
 
@@ -35,15 +35,10 @@ If you have the skills and equipment to build this device, and would like to don
 | Changelog             | 1.0     | [Switch Adapted Bubble Blower Changelog](/Documentation/Switch_Adapted_Bubble_Blower_Changelog.pdf)|
 
 
-### Design Files
-[CAD Files](/Design_Files)
-
-### Build Files
- - [3D Printing Files](/Build_Files)
 
 ## Attribution
-Designers:
- - Neil Squire / Makers Making Change
+Toy Adaption by Kerilyn Kennedy - Makers Making Change
+Documentation by Neil Squire / Makers Making Change
 
 
 
