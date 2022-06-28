@@ -22,7 +22,7 @@ The [Bill of Materials](/Documentation/Bottle_Opener_BOM_V1.0.csv) lists the cos
 | Document              | Version | Link |
 |-----------------------|---------|------|
 | Assembly Guide        | 1.0     | [Switch Adapted Bubble Blower Assembly Guide](/Documentation/Switch_Adapted_Bubble_Blower_Assembly_Guide.pdf)|
-| Design Rationale      | 1.0     | [Switch Adapted Bubble Blower Design Rationale](/Documentation/Switch_Adapted_Bubble_Blower_Design_Rationale.pdf)|
+| Design Rationale      | 1.0     | [Switch Adapted Bubble Blower Design Rationale](/Documentation/Switch_Adapted_Bubble_Blower_Design_Rationale .pdf)|
 | Bill of Materials     | 1.0     | [Switch Adapted Bubble Blower Bill of Materials](/Documentation/Working_Documents/Switch_Adapted_Bubble_Blower_BOM.xlsx)|
 | Maker Checklist       | 1.0     | [Switch Adapted Bubble Blower Maker Checklist](/Documentation/Switch_Adapted_Bubble_Blower_Maker_Checklist.pdf)|
 | User Guide            | 1.0     | [Switch Adapted Bubble Blower User Guide](/Documentation/Switch_Adapted_Bubble_Blower_User_Guide.pdf)|
