@@ -1,8 +1,8 @@
 # Switch-Adapted-Bubble-Blower
+An adapted bubble machine that uses a 3.5mm assistive switch
 
-The Bottle Opener is a simple, low-cost, 3D-printable handheld tool to help those with arthritis, limited finger dexterity or other related disabilities open or close plastic screw-on caps on various beverage bottles, cleaning products, condiments. The bottle opener allows users to remove or replace the lids of these jugs with a small squeeze on a large, rounded gripping surface. The Bottle Opener has several modified versions to open different sizes of containers. The different sizes are named by the approximate diameter of the caps they can open in millimeters.
+![image](https://user-images.githubusercontent.com/98916090/176206712-e2945cb2-03f9-4988-b4d6-f1a60a4c6f89.png)
 
-![Bottle_Opener](Photos/Bottle_Opener_40.jpg)
 
 ## More info at
 - [Makers Making Change Project Page]( https://makersmakingchange.com/project/switch-adapted-bubble-blower/)
@@ -10,12 +10,18 @@ The Bottle Opener is a simple, low-cost, 3D-printable handheld tool to help thos
 
 
 ## Getting Started
+1. How to build this device
 
+All of the files and instructions required to adapted the bubble blower are contained within this repository. Refer to the Maker Checklist below.
 
+2. How to request a build of this device
 
-### 3. Bill of Materials
+If you would like to obtain a switch adapted bubble blower but do not have the skills or equipment to do so, you may submit a build request through the [MMC Library Page]( https://makersmakingchange.com/project/switch-adapted-bubble-blower/). The requestor is responsible for the cost of materials and any shipping.
 
-The [Bill of Materials](/Documentation/Bottle_Opener_BOM_V1.0.csv) lists the cost of building the different sizes of Bottle Openers.
+3. How to build this device for someone else
+
+If you have the skills and equipment to build this device, and would like to donate your time to create the switch for someone who needs it, visit the [MMC Maker Wanted](https://makersmakingchange.com/maker-wanted/) section.
+
 
 ## Files
 ### Documentation
