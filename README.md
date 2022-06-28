@@ -37,13 +37,14 @@ If you have the skills and equipment to build this device, and would like to don
 
 
 ## Attribution
-Toy Adaption by Kerilyn Kennedy - Makers Making Change
+Toy Adaption by Kerilyn Kennedy - Makers Making Change.
+
 Documentation by Neil Squire / Makers Making Change
 
 
 
 ## License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Bottle Opener</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="www.makersmakingchange.com" property="cc:attributionName" rel="cc:attributionURL">Neil Squire</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Switch Adapted Bubble Blower</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="www.makersmakingchange.com" property="cc:attributionName" rel="cc:attributionURL">Neil Squire</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 
 
@@ -63,4 +64,4 @@ We are committed to creating a network of volunteer makers who support people wi
 
 ## Contact Us
 
-For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page]( https://www.makersmakingchange.com/project), [MMC Forum](https://forum.makersmakingchange.com), or contact info@makersmakingchange.com
+For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page](https://makersmakingchange.com/project/switch-adapted-bubble-blower/), [MMC Forum](https://makersmakingchange.com/forum/topic/switch-adapted-bubble-blower/), or contact info@makersmakingchange.com
