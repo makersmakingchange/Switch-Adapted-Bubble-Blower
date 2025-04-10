@@ -1,4 +1,4 @@
-# Switch-Adapted-Bubble-Blower
+# Switch Adapted Bubble Blower
 An adapted bubble machine that uses a 3.5mm assistive switch
 
 ![image](https://user-images.githubusercontent.com/98916090/176206712-e2945cb2-03f9-4988-b4d6-f1a60a4c6f89.png)
@@ -6,7 +6,6 @@ An adapted bubble machine that uses a 3.5mm assistive switch
 
 ## More info at
 - [Makers Making Change Project Page]( https://makersmakingchange.com/project/switch-adapted-bubble-blower/)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/switch-adapted-bubble-blower/)
 
 
 ## Getting Started
@@ -47,8 +46,8 @@ Documentation by Neil Squire / Makers Making Change
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Switch Adapted Bubble Blower</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="www.makersmakingchange.com" property="cc:attributionName" rel="cc:attributionURL">Neil Squire</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 
-
-
+---
+<!-- ABOUT MMC START -->
 ## About Us
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -65,3 +64,6 @@ We are committed to creating a network of volunteer makers who support people wi
 ## Contact Us
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page](https://makersmakingchange.com/project/switch-adapted-bubble-blower/), [MMC Forum](https://makersmakingchange.com/forum/topic/switch-adapted-bubble-blower/), or contact info@makersmakingchange.com
+
+
+<!-- ABOUT MMC END -->
